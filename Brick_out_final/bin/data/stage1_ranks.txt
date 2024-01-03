@@ -1,0 +1,10 @@
+HKD 2320
+KHS 2000
+KHS 1080
+asf 500
+HIi 130
+CSE -60
+asd -80
+KTH -220
+sdd -250
+asz -300

@@ -1,0 +1,20 @@
+﻿D:\Program Files\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 중간 디렉터리(obj\x64\Debug\)에 다른 프로젝트(Brick_out.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  ofApp.cpp
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\utils\ofUtils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec3f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofVec2f.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(326,1): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(331,1): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(912,12): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(913,12): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(914,12): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(915,12): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+LINK : warning LNK4075: '/INCREMENTAL'이(가) '/FORCE' 사양으로 인해 무시됩니다.
+  Brick_out_v02.vcxproj -> D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Brick_out_v02\bin\Brick_out_v02_debug.exe
+  
+  	                   2	D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\fmod\lib\vs\x64\
+  	  *추가 파일  		 6942208	D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Brick_out_v02\bin\FreeImage.dll
+  
+  	                   1	D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\libs\FreeImage\lib\vs\x64\
+  	  *추가 파일  		 1826304	D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Brick_out_v02\bin\fmod.dll
+  	  *추가 파일  		 2041856	D:\내 폴더(HDD)\과제\6학기\컴퓨터공학설계및실습1\6주차\of_v0.12.0_vs_release\of_v0.12.0_vs_release\apps\myApps\Brick_out_v02\bin\fmodL.dll
